@@ -1,0 +1,14 @@
+Designed and implemented web-based applications using J2EE, Java, POJO, REST, and JDBC.
+• Responsible for the operation, maintenance, and integrity of a distributed networked Linux environment.
+• Designed and documented REST/HTTP APIs, including JSON data formats and API versioning strategy.
+• Experience in configuring auto-scalable and highly available microservices with monitoring and logging using AWS, Docker, Jenkins, and Splunk.
+• Designed front-end applications using web technologies like Angular 6/7 and used Bootstrap for creating grid layouts and responsive screen sizes. 
+• Involved in the implementation of DAO using Spring-Hibernate ORM and Spring integration and converted a monolithic app to a microservices architecture using Spring Boot.
+• Utilized Java 8 features like Lambda expressions and Stream API for Bulk data operations on Collections which would increase the performance of the application and understanding of core trading concepts.
+• Developed POJO and implemented Hibernate and integration with Spring Framework.
+• Database development required the creation of new tables PL/SQL stored procedures, functions, views, indexes, and constraints, triggers, and required SQL tuning to reduce the response time in the application.
+• Used Java 8 Method References feature to point to methods by their names and used functional interfaces.
+• Created Typescript reusable components and services to consume REST APIs using Component based architecture provided by Angular 6/7 and Angular version 10.
+• Used RESTful web services to communicate with third-party services or internal applications. Wrote Java back-end web services in RESTful framework using the jersey JAX-RS framework.
+• Designed and developed user interface (UI) components using JSP, HTML, CSS, and Javascript.
+• Wrote Junit case to test the code as per business requirements. Developed unit test cases and suits on the JUnit framework for unit testing, writing Junit test cases for every Java class
